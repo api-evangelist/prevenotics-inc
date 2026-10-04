@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prevenotics-inc.png
-name: Prevenotics, Inc.
+name: Prevenotics
 description: Prevenotics, Inc. is an AI-powered preventive healthcare and diagnostics company working
   toward "a zero cancer world powered by AI." Its flagship solution provides real-time identification
   of pre-cancerous risks during gastroscopy, helping physicians move beyond diagnosis to effective
@@ -67,3 +67,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Prevenotics, Inc.
